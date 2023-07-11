@@ -3,9 +3,9 @@
 
 Hi! I'm Gwanghyeon (Yoda_jedi) and I'm a <b>Jr.Data Engineer</b> from Korea.
 
-I can collect data from various sources, process it, and develop it to be used well for decision making!
+I can collect data from various sources, process it, and develop it (Data pipeline) to be used well for decision making!
 
-I hope to be a full-stack data engineer who can help many data developers
+I hope to be a full-stack data engineer who can help many data developers.
 
 
 #### Contact ME
@@ -28,16 +28,25 @@ I hope to be a full-stack data engineer who can help many data developers
 
 
 #### Library & SoftWare
+![Apache Spark](https://img.shields.io/badge/apache%20spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Hive](https://img.shields.io/badge/apache%20hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
+<br>
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 #### IDE
 ![Zeppelin](https://img.shields.io/badge/Apache%20Zeppelin-188FFF?style=for-the-badge&logo=apache&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Sublime TEXT](https://img.shields.io/badge/Sublime%20TEXT-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)
-![DataGrip](https://img.shields.io/badge/datagrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
 ![VIM](https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+
+<br>
+
+![DataGrip](https://img.shields.io/badge/datagrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Entellij](https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 <br/>
