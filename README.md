@@ -1,6 +1,7 @@
 ### 👋 Introduction 👋
 #### About ME
 
+
 Hi! I'm Gwanghyeon (Yoda_jedi) and I'm a <b>Jr.Data Engineer</b> from South Korea.
 
 I can collect data from various sources, process it, and develop it (Data pipeline) to be used well for decision making!
